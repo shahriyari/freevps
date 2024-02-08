@@ -1,6 +1,7 @@
 ﻿	name: Windows - RustDesk
 
-	on:workflow-dispatch:
+	on:
+ 		workflow-dispatch:
 	
 	jobs:
 	 build:
